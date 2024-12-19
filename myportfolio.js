@@ -73,11 +73,11 @@ function setcolor(theme) {
         body.style.backgroundSize = "cover"; 
         body.style.backgroundAttachment = "fixed"; 
     } else if (theme === 'grey') {
-        body.style.background = "rgb(150, 225, 191)";
+        body.style.background = "grey";
         body.style.backgroundSize = ""; 
         body.style.backgroundAttachment = ""; 
     } else if (theme === 'blue') {
-        body.style.background = "rgb(169, 169, 223)";
+        body.style.background = "black";
         body.style.backgroundSize = "";
         body.style.backgroundAttachment = ""; 
     }
