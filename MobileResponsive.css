@@ -57,7 +57,7 @@
   }
   #seeMoreBtn {
     font-size: 13px;
-
+    margin-left: 40%;
     padding: 5px;
   }
   input {
@@ -102,5 +102,8 @@
   }
   .tab-content.active {
     font-size: 13px;
+  }
+  .content{
+    margin-left: 0;
   }
 }
